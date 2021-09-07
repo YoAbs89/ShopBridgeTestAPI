@@ -3,7 +3,7 @@
 This is a test web API created for Checking Inventory details.
 
 Following are the operations done here:
-1. GET Request - Fetch the full inevtory details
+1. GET Request - Fetch the full inventory details
 2. POST Request - Create a new product in the inventory
 3. PUT Request - Modify an existing product in the inventory
 4. DELETE Request - Remove a product from an existing brand available in the inventory
